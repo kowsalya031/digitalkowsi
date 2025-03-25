@@ -96,7 +96,7 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Manirathinam R</h1>
+            <h1>kowsalya p</h1>
             <p>Am BCA Student</p>
         </div>
     </header>
@@ -169,7 +169,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Manirathinam R</p>
+        <p>&copy; 2025 kowsalya p</p>
     </footer>
 
     <script>
